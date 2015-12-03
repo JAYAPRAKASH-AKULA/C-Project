@@ -1,3 +1,9 @@
+/*
+ * AUTHORS: Jayaprakash Akula
+ * COURSE: CS ID1100
+ * INSTRUCTOR: Ramaswamy Chittur
+ */
+
 /* AN IMPLEMENTATION OF HEAP IN AN ARRAY.*/
 
 #include <stdio.h>
